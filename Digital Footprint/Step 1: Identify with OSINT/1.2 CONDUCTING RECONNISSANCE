@@ -1,0 +1,35 @@
+1.2 CONDUCTING RECONNISSANCE 
+------------------------------------------------
+PREFIX: Now that we have an idea as to what information we might have online, its going to make identification so much easier. 
+Now, its time for us to see whats online so we can begin eradicating it from the face of publicity. In order for us to do this, 
+we will be utilizing a variety of tools. Some you have to pay for, others are simply online crawlers and others are console based
+applications that will be used. All of which will be listed in this document, along with some basic syntax to utilize them effectively. 
+-----------------------------------------------
+TO BEGIN: 
+
+OSINTFRAMEWORK: https://osintframework.com/
+  -This is an online site that has a collection of services to help identify people or organizations based off pieces of information given.
+  It is completely free to access, however, some sites within this collection do require a payment for their services. 
+
+  --I only have this here as it has many uses, feel free to check it out! 
+
+INSTANT USERNAME SEARCH: https://instantusername.com/#/
+  -Use this to lookup common usernames you've had in the past, this will search through a bunch of common sites people access to find 
+  accounts with that username, simply put your username in the searchbar and press enter. 
+
+SNUSBASE (paid): https://snusbase.com/
+  -Showcases info from breached databases, includes things such as your name, address, phone number, usernames, passwords, emails and other PII. REALLY HELPFUL 
+  in rediscovering accounts lost over the years. 
+    -To use it, simply pay for the service, login and the engine is a query based system. Select which item you want to look up (I.e. if looking up an email-
+    then select the email button), then type in the searchbox what info you want to look up and press enter to search. 
+
+Sherlock (CLI): https://github.com/sherlock-project/sherlock
+  -Perhaps one of the best tools yet, this is a command line application that will search through many different websites using their URI structure. All of the documentation 
+  needed to setup and use is on their github repo. 
+
+Have I been Pwned: https://haveibeenpwned.com/
+
+  -Another great resource for account rediscovery, simply put your email in the search bar and hit enter. Scroll down and youll see different websites that have been hacked that included your 
+  email in their breached database. 
+
+--------------------------------------------------
