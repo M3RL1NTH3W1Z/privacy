@@ -1,0 +1,59 @@
+****PRIVACY AND SECURITY MAKEOVER (PERSONAL)****
+
+Four  Domains Exist within a Digital Footprint 
+
+-Emails 
+-Social Media 
+-PII (Advertisers collection, includes phone numbers and addresses)
+-Breached Third Party Accounts 
+--------------------------------
+Four Domains exist for Surveillance of Personal Info 
+
+-Hardware (Digital Forensics, Hardware based exploits)
+-Software (Malware, Spyware, Capturing and sending of personal info to advertisers)
+-Network Traffic (ISP, Public networks, enterprise networks)
+-Signal Monitoring (Federal Communications Commision, Cell Companies)
+--------------------------------
+
+PROCESS FOR REVAMPING YOUR DIGITAL INFORMATION
+
+While your identity may already be imprinted within the internet due to 
+third parties involved in the mass collection of information to be sold
+to the public, its still possible to proactively work on keeping your 
+accounts and information privatized. Contrary to popular belief, the 
+methodologies presented in this series may be considered "paranoid".
+However, it is imperative that the public knows how to masquerade their 
+information in order to thwart scammers, stalkers, and other kinds
+of nefarious individuals or organizations willing to pay the price
+for a persons personal information. 
+
+This will be an ongoing series of documents outlining a step by step 
+plan to redesign the way we think, act and handle our information online.
+It will not be the most conveinent way of things, but know that
+conveinence has been taken into consideration by me. 
+
+This series will cover a variety of topics, including: 
+
+-Open Source Intelligence gathering, in order to develop a picture of your digital identity
+-Creating a plan to reduce your footprint online 
+-Implementing a more secure architecture for accounts you own
+-Sending formal requests to third parties to get rid of your personal information collected
+-Device hardening techniques, along with reviewing different operating systems 
+-Antivirus solutions, Firewalls, best browsers and VPN providers
+-Masquerading your home address
+-Multi-Factor Authentication setup 
+-Recovery Plans
+-Password creation and Password Management
+---------------------------------------
+
+“We understand it still that there is no easy road to freedom. We know it well that none of us acting alone can achieve success. We must therefore act together as a united people, for national reconciliation, for nation building, for the birth of a new world. Let there be justice for all. Let there be peace for all.” -Nelson Mandela
+
+
+
+
+
+
+
+
+
+
