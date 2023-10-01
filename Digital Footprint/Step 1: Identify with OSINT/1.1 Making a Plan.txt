@@ -1,0 +1,26 @@
+1.1 MAKING AN OPEN-SOURCE IDENTIFICATION PLAN FOR YOUR DIGITAL FOOTPRINT
+-----------------------------------------------------------------------
+Prefix: In order for us to be able to identify and combat the commercial usage of our private information, 
+it is imperative that we begin to understand exactly HOW much of our information is out there. A great way 
+for us to begin this journey of cleaning it all up, is by developing a plan to identify what we currently 
+know about ourselves online. Please note that some of the tools identified will ask for some money. I hope 
+to eventually create an all-in-one collection tool that utilizes the APIs of these third party services 
+someday to make this a lot easier and even more affordable for the reader (i.e. you)
+------------------------------------------------------------------------
+TO BEGIN: Write down on a piece of paper, everything you know about yourself digitally, even from when you
+were a kid. This includes things such as:
+
+-Usernames 
+-Passwords 
+-Nicknames 
+-Email Addresses 
+-Current and Past phone numbers 
+-Social Media and other Accounts you recall using 
+-Current and former home addresses
+-Any sort of password sharing provider you MAY have used (Lastpass, Dashlane, etc.)
+
+Keep this note stored in a safe place, as this is EVERYTHING you know about yourself online. This is our gameplan. 
+We will use this to understand more about ourselves, how our information is being used across the internet, along with what we 
+need to clean up. 
+
+END OF STEP 1.1 
